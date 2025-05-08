@@ -1,6 +1,8 @@
-{
+[
+  {
   "pkg": "com.sk.yamin",
   "version": "1.1",
   "update_url": "https://google.com",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security"
 }
+]
