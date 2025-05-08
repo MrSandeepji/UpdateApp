@@ -1,11 +1,6 @@
 {
-  "pkg": "com.sk.yamij",
-  "version": "5.0",
-  "update_url": "https://google.com/",
-  "features": [
-    "Improved user interface",
-    "Added new features",
-    "Bug fixes & improvements",
-    "Enhanced security"
-  ]
+  "pkg": "com.sk.yamin",
+  "version": "1.0.1",
+  "update_url": "https://your-update-link.com",
+  "features": "Improved UI\nNew Features\nBug Fixes"
 }
