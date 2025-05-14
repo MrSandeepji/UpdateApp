@@ -22,5 +22,11 @@
   "version": "10",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
+  },
+  {
+  "pkg": "com.ratri.app",
+  "version": "3.1.6",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
   }
 ]
