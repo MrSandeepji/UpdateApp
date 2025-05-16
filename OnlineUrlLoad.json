@@ -3,12 +3,12 @@
     "pckg_id": "com.sk.animeworld",
     "base_domain": "watchanimeworld.in",
     "home_url": "https://watchanimeworld.in/",
-    "mega_domain": "mega.nz"
+    "mega_domains": ["mega.nz", "mega.io"]
   },
   {
     "pckg_id": "com.sk.animeworld22",
     "base_domain": "example.com",
     "home_url": "https://example.com/",
-    "mega_domain": "mega.io"
+    "mega_domains": ["mega.nz"]
   }
 ]
