@@ -6,9 +6,9 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
   {
-    "pckg_id": "com.sk.animeworld22",
-    "base_domain": "example.com",
-    "home_url": "https://example.com/",
-    "mega_domains": ["mega.nz"]
-  }
+    "pckg_id": "com.animeworld.ottmods4u",
+    "base_domain": "watchanimeworld.in",
+    "home_url": "https://watchanimeworld.in/",
+    "mega_domains": ["mega.nz", "mega.io"]
+ }
 ]
