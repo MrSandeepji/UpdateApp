@@ -13,7 +13,7 @@
  },
   {
     "pckg_id": "com.anihustle.ottmods4u",
-    "base_{domain": "anihustle.xyz",
+    "base_domain": "anihustle.xyz",
     "home_url": "https://anihustle.xyz/home",
     "mega_domains": ["pahe.bunniescdn.online"]
   }
