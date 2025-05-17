@@ -10,5 +10,11 @@
     "base_domain": "watchanimeworld.in",
     "home_url": "https://watchanimeworld.in/",
     "mega_domains": ["mega.nz", "mega.io"]
- }
+ },
+  {
+    "pckg_id": "com.anihustle.ottmods4u",
+    "base_{domain": "anihustle.xyz",
+    "home_url": "https://anihustle.xyz/home",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  }
 ]
