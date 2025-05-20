@@ -16,5 +16,11 @@
     "base_domain": "anihustle.xyz",
     "home_url": "https://anihustle.xyz/home",
     "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "tv.miruro.ottmods4u",
+    "base_domain": "miruro.tv",
+    "home_url": "https://www.miruro.tv/",
+    "mega_domains": [""]
   }
 ]
