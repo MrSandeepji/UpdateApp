@@ -10,7 +10,7 @@
   "version": "1.1",
   "update_url": "https://google.com",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
+  "quote_active": false,
   "quote": "Success doesn’t come to you. You go to it."
   
 },
