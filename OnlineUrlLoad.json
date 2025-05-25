@@ -22,5 +22,11 @@
     "base_domain": "miruro.tv",
     "home_url": "https://www.miruro.tv",
     "mega_domains": ["pahe.win"]
+  },
+  {
+    "pckg_id": "org.anime9.ottmods4u",
+    "base_domain": "9anime.org.lv",
+    "home_url": "https://9anime.org.lv/",
+    "mega_domains": ["pahe.win"]
   }
 ]
