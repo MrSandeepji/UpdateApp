@@ -34,5 +34,11 @@
     "base_domain": "animesugetv.se",
     "home_url": "https://animesugetv.se/home",
     "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animedao.ottmods4u",
+    "base_domain": "animedao.watch",
+    "home_url": "https://animedao.watch/home/",
+    "mega_domains": ["pahe.bunniescdn.online"]
   }
 ]
