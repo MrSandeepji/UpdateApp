@@ -28,5 +28,11 @@
     "base_domain": "9anime.org.lv",
     "home_url": "https://9anime.org.lv/",
     "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animesuge.ottmods4u",
+    "base_domain": "animesugetv.se",
+    "home_url": "https://animesugetv.se/home",
+    "mega_domains": ["pahe.bunniescdn.online"]
   }
 ]
