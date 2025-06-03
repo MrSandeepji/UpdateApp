@@ -40,5 +40,12 @@
     "base_domain": "animedao9.top",
     "home_url": "https://animedao9.top/",
     "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animedub.ottmods4u",
+    "base_domain": "animedub.pro",
+    "home_url": "https://animedub.pro/home",
+    "mega_domains": ["dlx.techinmind.space"]
   }
+  
 ]
