@@ -50,7 +50,7 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
   },
   {
-  "pkg": "com.spotify.music",
+  "pkg": "aio.streambros.app",
   "version": "1.1",
   "update_url": "https://google.com",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
