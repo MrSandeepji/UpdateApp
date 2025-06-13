@@ -68,6 +68,11 @@
   "version": "3.0.389.2048",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
+  },
+  {
+  "pkg": "com.fastexpansion.gogo",
+  "version": "2.0.O",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Due to Fake Dailog Issue Update dailog Box Appearing"
   }
-  
 ]
