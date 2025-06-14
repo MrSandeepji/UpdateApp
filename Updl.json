@@ -54,7 +54,7 @@
   "version": "1.1",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
+  "quote_active": false,
   "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
