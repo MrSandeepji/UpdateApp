@@ -1,11 +1,11 @@
 [
   {
     "pkg": "com.sk.notification",
-    "Schedule": "15/06/2025, 18:37",
+    "Schedule": "15/06/2025, 18:48",
     "show_notification": true,
     "title": "Join Now!",
     "message": "Click here to open the link",
     "url": "https://example.com/join",
-    "image": "https://i.ibb.co/p6dC6bWb/Telegram-Community-Blog-Banner-1-jpg.webp"
+    "image": "https://i.ibb.co/p6h22ccr/Telegram-Community-Blog-Banner-1-jpg.jpg"
   }
 ]
