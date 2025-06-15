@@ -1,7 +1,7 @@
 [
   {
-    "pkg": "com.sk.notification",
-    "Schedule": "15/06/2025, 19:00",
+    "pkg": "aio.streambros.app",
+    "Schedule": "15/06/2025, 19:20",
     "show_notification": true,
     "title": "Join Now!",
     "message": "Click here to open the link",
