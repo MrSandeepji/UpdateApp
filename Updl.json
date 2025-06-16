@@ -68,5 +68,13 @@
   "version": "v2.0.0",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Fake Dailog Issue Fixed\nDownload v1.9.2 Version From Channel"
+  },
+  {
+  "pkg": "cdi.videostreaming.app",
+  "version": "21.12",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": false,
+  "quote": "Important Message"  
   }
 ]
