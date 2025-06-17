@@ -20,6 +20,14 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
   },
   {
+  "pkg": "com.toonworld.ottmods4u",
+  "version": "3.142.23",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": false,
+  "quote": "Important Message"  
+  },
+  {
   "pkg": "com.ratri.app",
   "version": "3.1.5",
   "update_url": "https://telegram.me/OttMods4U",
