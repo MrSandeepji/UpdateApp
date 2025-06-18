@@ -34,6 +34,14 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
   },
   {
+  "pkg": "com.vlv.aravali",
+  "version": "1.9",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": false,
+  "quote": "Important Message"
+  },
+  {
   "pkg": "com.vlv.aravali.reels",
   "version": "5.1.8",
   "update_url": "https://telegram.me/OttMods4U",
