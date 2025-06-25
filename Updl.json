@@ -83,10 +83,10 @@
   "pkg": "com.fastexpansion.gogo",
   "version": "2.0.1",
   "update_url": "https://telegram.me/OttMods4U",
-  "features": "Fake Dailog Issue Fixed\nDownload v2.0.1 Version From Channel\nBug Fixed & Improvement\nSome Minor Changes"
+  "features": "Fake Dailog Issue Fixed\nDownload v2.0.1 Version From Channel\nBug Fixed & Improvement\nSome Minor Changes",
   "quote_active": false,
   "quote": "Important Message"
-  },
+},
   {
   "pkg": "cdi.videostreaming.app",
   "version": "2.9.929",
