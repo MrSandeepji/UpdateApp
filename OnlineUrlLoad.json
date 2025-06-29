@@ -46,6 +46,13 @@
     "base_domain": "animedub.co",
     "home_url": "https://animedub.co/home",
     "mega_domains": ["dlx.techinmind.space"]
+  },
+  {
+    "pckg_id": "com.animesalt.android",
+    "base_domain": "animesalt.cc",
+    "home_url": "https://animesalt.cc/",
+    "mega_domains": ["mega.nz"]
   }
+  
   
 ]
