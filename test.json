@@ -1,7 +1,7 @@
 [
   {
     "pkg": "com.sk.forceupdate",
-    "version": "1.0",
+    "version": "1.10",
     "update_url": "https://google.com",
     "upBtn": "Update",
     "msg": "New version available! Update for new features."
