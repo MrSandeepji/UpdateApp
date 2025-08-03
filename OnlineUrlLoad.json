@@ -52,7 +52,11 @@
     "base_domain": "animesalt.cc",
     "home_url": "https://animesalt.cc/",
     "mega_domains": ["mega.nz"]
+  },
+  {
+    "pckg_id": "com.hianime.ottmods4u",
+    "base_domain": "hianime.com.cv",
+    "home_url": "https://hianime.com.cv/home",
+    "mega_domains": ["mega.nz"]
   }
-  
-  
 ]
