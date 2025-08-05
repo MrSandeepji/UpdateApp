@@ -58,5 +58,11 @@
     "base_domain": "hianime.com.cv",
     "home_url": "https://hianime.com.cv/home",
     "mega_domains": ["mega.nz"]
+  },
+  {
+    "pckg_id": "com.animahd.ottmods4u",
+    "base_domain": "animahd.com",
+    "home_url": "https://animahd.com",
+    "mega_domains": ["google.com"]
   }
 ]
