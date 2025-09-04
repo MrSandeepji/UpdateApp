@@ -12,6 +12,12 @@
     "mega_domains": ["mega.nz", "mega.io"]
  },
   {
+    "pckg_id": "com.animeworld2.ottmods4u",
+    "base_domain": "animeworld-india.me",
+    "home_url": "https://animeworld-india.me",
+    "mega_domains": ["mega.nz", "mega.io"]
+ },
+  {
     "pckg_id": "com.toonworld.ottmods4u",
     "base_domain": "animeplex.fun",
     "home_url": "https://animeplex.fun/",
