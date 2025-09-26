@@ -35,7 +35,7 @@
   },
   {
   "pkg": "com.vlv.aravali",
-  "version": "2.7",
+  "version": "2.8",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": false,
@@ -51,7 +51,7 @@
   },
   {
   "pkg": "com.vlv.aravali.reels",
-  "version": "5.2.3",
+  "version": "5.2.4",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
   },
