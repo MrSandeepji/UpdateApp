@@ -85,7 +85,9 @@
   "pkg": "com.amazon.avod.thirdpartyclient",
   "version": "4.0.800.401",
   "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nDownload New Version From Old Post"
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nDownload New Version From Old Post",
+  "quote_active": true,
+  "quote": "Unfortunately our account 'Device limit has been Reached'. So i can't provide any update right now. Please join our telegram channel for next update. I'll try to provide next update as soon as."
   },
   {
   "pkg": "com.journey.indiab",
