@@ -138,5 +138,14 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
   "quote": "QuickTV subscription has been expired. I'll inform you when i have get new account so join our telegram channel and get latest update about this."  
-  }
+  },
+  {
+  "pkg": "com.cricfy.tv",
+  "version": "5.5",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": false,
+  "quote": "Important Msg"  
+  },
+  
 ]
