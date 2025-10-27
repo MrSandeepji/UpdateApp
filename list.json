@@ -1,0 +1,16 @@
+[
+  {
+    "pckg_id": "com.sk.animmverse",
+    "base_domain": "watchanimeworld.in",
+    "home_url": "https://watchanimeworld.in/",
+    "display_name": "Anime World 2",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+  {
+    "pckg_id": "com.sk.animmverse",
+    "base_domain": "animeworld-india.me",
+    "home_url": "https://animeworld-india.me",
+    "display_name": "Anime World",
+    "mega_domains": ["deadtoonsindia.cc", "mega.nz"]
+ }
+]
