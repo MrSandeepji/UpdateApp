@@ -50,24 +50,10 @@
   "quote": "Sorry guys, Again Our account has been banned. So Just Join Our Telegram Channel For New Update and another Mod"
   },
   {
-  "pkg": "com.androidapp.cherryflix",
-  "version": "1.0.9",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
-  },
-  {
   "pkg": "com.goldflix.playfixapplication",
   "version": "5.3",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
-  },
-  {
-  "pkg": "com.netmirror.android",
-  "version": "21.12",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Message"  
   },
   {
   "pkg": "com.sonyliv",
@@ -100,14 +86,6 @@
   "quote": "Important Message"  
   },
   {
-  "pkg": "cdi.videostreaming.app",
-  "version": "2.9.929",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Message"  
-  },
-  {
   "pkg": "com.community.mbox.in",
   "version": "3.0.09.1014.03",
   "update_url": "https://telegram.me/OttMods4U",
@@ -117,7 +95,7 @@
   },
   {
   "pkg": "story.tv.drama.reels",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
@@ -139,5 +117,4 @@
   "quote_active": false,
   "quote": "Important Msg"  
   }
-  
 ]
