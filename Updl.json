@@ -116,5 +116,13 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": false,
   "quote": "Important Msg"  
+  },
+  {
+  "pkg": "com.seekho.android",
+  "version": "1.13.12",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": false,
+  "quote": "Important Msg"  
   }
 ]
