@@ -2,7 +2,7 @@
   {
     "pkg": "com.sk.dataimport",
     "dailogShow": true,
-    "title": "Attention Required",
+    "title": "⛔ Attention User ⛔",
     "message": "This app needs to be updated or data cleared. Please open Settings to continue"
   }
 ]
