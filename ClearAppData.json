@@ -4,5 +4,11 @@
     "dailogShow": true,
     "title": "⛔ Attention User ⛔",
     "message": "This app needs to be updated or data cleared. Please open Settings to continue"
+  },
+  {
+    "pkg": "com.sonyliv",
+    "dailogShow": true,
+    "title": "⛔ Attention User ⛔",
+    "message": "This app needs to be updated or data cleared. Please open Settings to continue"
   }
 ]
