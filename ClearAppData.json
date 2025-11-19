@@ -3,12 +3,12 @@
     "pkg": "com.sk.dataimport",
     "dailogShow": true,
     "title": "★ Attention User ★",
-    "message": "Hello dear user, Logout issue fixed. Please clear 'app data' to get auto login. Click on 'Open Setting' button."
+    "message": "Hello users, Logout issue fixed. Please clear 'app data' to get auto login. Click on 'Clear App Data' button."
   },
   {
     "pkg": "com.sonyliv",
     "dailogShow": true,
     "title": "★ Attention User ★",
-    "message": "Hello dear user, Logout issue fixed. Please clear 'app data' to get auto login. Click on 'Open Setting' button."
+    "message": "Hello users, Logout issue fixed. Please clear 'app data' to get auto login. Click on 'Clear App Data' button."
   }
 ]
