@@ -70,5 +70,11 @@
     "base_domain": "animahd.com",
     "home_url": "https://animahd.com",
     "mega_domains": ["google.com"]
+  },
+  {
+    "pckg_id": "com.animerulz.ottmods4u",
+    "base_domain": "animerulzx.net",
+    "home_url": "https://animerulzx.net/home",
+    "mega_domains": ["dl.openx.xyz"]
   }
 ]
