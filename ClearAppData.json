@@ -15,8 +15,8 @@
   },
   {
     "pkg": "com.sk.kukufm",
-    "token": "fuhsu489idjkujuuu8",
-    "dailogShow": false,
+    "token": "fuhsu489idjkujuuu6",
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
