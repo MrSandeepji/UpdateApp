@@ -30,7 +30,7 @@
   {
     "pkg": "com.amazon.avod.thirdpartyclient",
     "token": "X7k6t2XWcQ2tD1DS",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
