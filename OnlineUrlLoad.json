@@ -76,5 +76,11 @@
     "base_domain": "animerulzx.net",
     "home_url": "https://animerulzx.net/home",
     "mega_domains": ["dl.openx.xyz"]
+  },
+  {
+    "pckg_id": "com.toonstream.ottmods4u",
+    "base_domain": "toonstream.one",
+    "home_url": "https://toonstream.one/home",
+    "mega_domains": ["multimoviesshg.com"]
   }
 ]
