@@ -9,21 +9,21 @@
   {
     "pkg": "com.sonyliv",
     "token": "fuhsu489idjksuysbii9",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "यदि आप ‘Uh oh! Looks like something is not right.’ यह समस्या का सामना कर रहे है तो कृपया App का डाटा क्लियर करे। अगर फिर भी यही दिक्कत आ रही है तो एक बार आप को डीलीट करके दोबारा इंस्टॉल करे।"   
   },
   {
     "pkg": "com.sk.kukufm",
-    "token": "fuhsu489idjkujuuu6",
-    "dailogShow": false,
+    "token": "fuhsu489idjkujugnb6",
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
   {
     "pkg": "com.sk.kukutv",
     "token": "fuhsu48higrTdtd7j8",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
