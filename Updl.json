@@ -126,5 +126,13 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
   "quote": "officially new version v3.2.7 released. Go to our telegram channel and download it."  
-  }
+  },
+  {
+  "pkg": "fun.playme.wobljr",
+  "version": "3.7",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": true,
+  "quote": "Currently this application not working please wait for sometime. Join Our Telegram Channel For Latest Update" 
+}
 ]
