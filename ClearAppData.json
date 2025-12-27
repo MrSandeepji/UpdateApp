@@ -16,7 +16,7 @@
   {
     "pkg": "com.sk.kukufm",
     "token": "fuhsu489idjkujugnb6",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
@@ -44,7 +44,7 @@
   {
     "pkg": "in.mohalla.quicktv",
     "token": "S5nvXh4RrYRGP3Mx",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   }
