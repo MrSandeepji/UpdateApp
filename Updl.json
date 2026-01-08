@@ -126,13 +126,5 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
   "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
-  },
-  {
-  "pkg": "com.cs.cinemain",
-  "version": "4.0.0",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "officially new version v4.0.0 released. Go to our telegram channel and download it."  
   }
 ]
