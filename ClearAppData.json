@@ -16,14 +16,14 @@
   {
     "pkg": "com.sk.kukufm",
     "token": "fuhsu489i075nb6",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
   {
     "pkg": "com.sk.kukutv",
     "token": "fuhsu48higrT6878",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
