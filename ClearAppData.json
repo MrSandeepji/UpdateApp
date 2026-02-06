@@ -9,7 +9,7 @@
   {
     "pkg": "com.sonyliv",
     "token": "fuhsu489id36t7u6y",
-    "dailogShow": false,
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
