@@ -13,12 +13,6 @@
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security"
   },
-   {
-  "pkg": "com.tvGdn.ottmods4u",
-  "version": "10",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nMany more bugs fixed"
-  },
   {
   "pkg": "com.toonworld.ottmods4u",
   "version": "3.14",
@@ -48,14 +42,6 @@
   "quote": "Unfortunately our account's 'Device limit has been Reached', So i can't provide any update right now. Please join our telegram channel for next update. I'll try to provide next update as soon as."
   },
   {
-  "pkg": "com.king.moja",
-  "version": "9.4",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Message"  
-  },
-  {
   "pkg": "com.journey.indiab.castle",
   "version": "2.0.7",
   "update_url": "https://telegram.me/OttMods4U",
@@ -80,14 +66,6 @@
   "quote": "StoryTV subscription has been expired. I'll inform you when i have get new account so join our telegram channel and get latest update about this."  
   },
   {
-  "pkg": "com.viralo",
-  "version": "0.0.213",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Msg"  
-  },
-  {
   "pkg": "com.seekho.android",
   "version": "1.13.12",
   "update_url": "https://telegram.me/OttMods4U",
@@ -103,9 +81,17 @@
   "quote_active": true,
   "quote": "I'm facing some critical issues. we are fixing this issue"  
   },
-   {
+  {
   "pkg": "com.sk.kukufm",
   "version": "5.6.1",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": true,
+  "quote": "I'm facing some critical issues. we are fixing this issue"  
+  },
+  {
+  "pkg": "com.sk.kukutv",
+  "version": "5.22.9",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
