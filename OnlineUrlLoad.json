@@ -3,7 +3,7 @@
     "pckg_id": "com.sk.animeworld",
     "base_domain": "watchanimeworld.in",
     "home_url": "https://watchanimeworld.in/",
-    "mega_domains": ["mega.nz", "mega.io"]
+    "mega_domains": ["mega.nz","mega.io"]
   },
   {
     "pckg_id": "com.animeworld.ottmods4u",
@@ -15,13 +15,13 @@
     "pckg_id": "com.animeworld2.ottmods4u",
     "base_domain": "hindianimezone.com",
     "home_url": "https://hindianimezone.com/",
-    "mega_domains": ["archive.deadtoons.one", "mega.nz"]
+    "mega_domains": ["archive.deadtoons.one","mega.nz"]
  },
   {
     "pckg_id": "com.toonworld.ottmods4u",
     "base_domain": "piratexplay.cc",
     "home_url": "https://piratexplay.cc/home",
-    "mega_domains": ["mega.nz"]
+    "mega_domains": ["mega.nz","zone.toonmixindia.site"]
   },
   {
     "pckg_id": "tv.miruro.ottmods4u",
