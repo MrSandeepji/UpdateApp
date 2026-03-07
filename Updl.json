@@ -142,5 +142,13 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": false,
   "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
+  },
+  {
+  "pkg": "com.litvibes",
+  "version": "1.0.90",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": true,
+  "quote": "officially new version v1.0.90 released. Go to our telegram channel and download it."  
   }
 ]
