@@ -23,14 +23,14 @@
   {
     "pkg": "com.sk.kukutv",
     "token": "Suhsu48higrT6878",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
   {
     "pkg": "com.amazon.avod.thirdpartyclient",
     "token": "X7k6t2XWcOQ2t01OS",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
@@ -64,8 +64,8 @@
   },
   {
     "pkg": "com.storymax.reels.shorts",
-    "token": "e9nvXhTuRufyHhx",
-    "dailogShow": false,
+    "token": "e9nvXhTuRufyThx",
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   }
