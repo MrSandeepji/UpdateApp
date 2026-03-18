@@ -14,12 +14,6 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security"
   },
   {
-  "pkg": "com.movieshubinpire.android",
-  "version": "2.1.6",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security"
-  },
-  {
   "pkg": "com.toonworld.ottmods4u",
   "version": "3.14",
   "update_url": "https://telegram.me/OttMods4U",
@@ -150,5 +144,13 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
   "quote": "officially new version v1.0.90 released. Go to our telegram channel and download it."  
+  },
+  {
+  "pkg": "com.movieshubinpire.android",
+  "version": "2.1.6a",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+  "quote_active": true,
+  "quote": "officially new version v2.1.6a released. Go to our telegram channel and download it."  
   }
 ]
