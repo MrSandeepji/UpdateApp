@@ -57,8 +57,8 @@
   },
   {
     "pkg": "story.tv.drama.reels",
-    "token": "e9nvXh64Rdjdj3Mx",
-    "dailogShow": false,
+    "token": "e9nvXh64Rdjdj3Mi",
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
