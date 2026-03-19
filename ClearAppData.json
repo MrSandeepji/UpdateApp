@@ -58,14 +58,14 @@
   {
     "pkg": "story.tv.drama.reels",
     "token": "e9nvXh64Rdjdj3Mi",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
   {
     "pkg": "com.storymax.reels.shorts",
     "token": "e9nvXhTuRufpThx",
-    "dailogShow": false,
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   }
