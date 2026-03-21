@@ -1,7 +1,7 @@
 [
   { "pkg_name": "com.reelstv", 
-    "mainUrl": "https://animerulzx.net/home", 
-    "whitelistDomains": [ "animerulzx.net", "reeltv.buzz", "download.openx.xyz"], 
+    "mainUrl": "https://reeltv.buzz", 
+    "whitelistDomains": [ "animerulzx.net", "reeltv.buzz", "t.me"], 
     "externalBrowserDomains": [ "content.openx.xyz" ] 
   }
 ]
