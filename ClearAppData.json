@@ -22,8 +22,8 @@
   },
   {
     "pkg": "com.sk.kukutv",
-    "token": "Suhsu48higrT6878",
-    "dailogShow": false,
+    "token": "Suhsu48higrT68789",
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
