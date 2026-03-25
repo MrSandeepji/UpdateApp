@@ -3,5 +3,11 @@
     "mainUrl": "https://reeltv.buzz", 
     "whitelistDomains": [ "animerulzx.net", "reeltv.buzz"], 
     "externalBrowserDomains": [ "content.openx.xyz,","t.me" ] 
-  }
+  },
+  { "pkg_name": "com.animoye.app", 
+    "mainUrl": "https://animoye.com/", 
+    "whitelistDomains": [ "animoye.com", "iqsmartgames.com"], 
+    "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
+  },
+  
 ]
