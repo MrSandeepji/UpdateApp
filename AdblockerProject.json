@@ -8,6 +8,5 @@
     "mainUrl": "https://animoye.com/", 
     "whitelistDomains": [ "animoye.com", "iqsmartgames.com"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
-  },
-  
+  }
 ]
