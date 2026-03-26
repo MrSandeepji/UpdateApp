@@ -10,7 +10,7 @@
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   },
   { "pkg_name": "com.hianime.app", 
-    "mainUrl": "https://hianimes.lc", 
+    "mainUrl": "https://hianime.lc", 
     "whitelistDomains": [ "hianime.lc"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   }
