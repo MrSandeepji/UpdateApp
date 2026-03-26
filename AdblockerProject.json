@@ -8,5 +8,10 @@
     "mainUrl": "https://animoye.com/", 
     "whitelistDomains": [ "animoye.com", "iqsmartgames.com"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
+  },
+  { "pkg_name": "com.hianime.app", 
+    "mainUrl": "https://hianime.lc/", 
+    "whitelistDomains": [ "hianime.lc"], 
+    "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   }
 ]
