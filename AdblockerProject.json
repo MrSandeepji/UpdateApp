@@ -9,9 +9,9 @@
     "whitelistDomains": [ "animoye.com", "iqsmartgames.com"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   },
-  { "pkg_name": "com.hianime.app", 
-    "mainUrl": "https://hianime.lc/", 
-    "whitelistDomains": [ "hianime.lc"], 
+  { "pkg_name": "com.hicine.app", 
+    "mainUrl": "https://www.hicine.info/", 
+    "whitelistDomains": [ "hicine.info"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   }
 ]
