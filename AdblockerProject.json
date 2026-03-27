@@ -11,7 +11,7 @@
   },
   { "pkg_name": "com.hicine.app", 
     "mainUrl": "https://www.hicine.info/", 
-    "whitelistDomains": [ "hicine.info"], 
+    "whitelistDomains": [ "hicine.info","hicine.app"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   }
 ]
