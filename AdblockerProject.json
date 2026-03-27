@@ -13,5 +13,10 @@
     "mainUrl": "https://www.hicine.info/", 
     "whitelistDomains": [ "hicine.info","hicine.app"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
+  },
+  { "pkg_name": "com.animotvslash.app", 
+    "mainUrl": "https://animotvslash.org/", 
+    "whitelistDomains": [ "animotvslash.org"], 
+    "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   }
 ]
