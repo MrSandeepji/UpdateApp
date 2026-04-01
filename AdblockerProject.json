@@ -18,5 +18,10 @@
     "mainUrl": "https://animotvslash.org/", 
     "whitelistDomains": [ "animotvslash.org"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
+  },
+  { "pkg_name": "com.reeltv.app", 
+    "mainUrl": "https://reeltv.buzz", 
+    "whitelistDomains": ["reeltv.buzz"], 
+    "externalBrowserDomains": ["cutly.in"] 
   }
 ]
