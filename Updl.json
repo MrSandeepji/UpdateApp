@@ -35,10 +35,10 @@
   },
   {
   "pkg": "com.amazon.avod.thirdpartyclient",
-  "version": "4.0.800.404",
+  "version": "4.0.800.405",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nDownload New Version From Old Post",
-  "quote_active": true,
+  "quote_active": false,
   "quote": "Unfortunately our account's 'Device limit has been Reached', So i can't provide any update right now. Please join our telegram channel for next update. I'll try to provide next update as soon as."
   },
   {
