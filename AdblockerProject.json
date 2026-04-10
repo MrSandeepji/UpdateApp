@@ -23,5 +23,10 @@
     "mainUrl": "https://reeltv.buzz", 
     "whitelistDomains": ["reeltv.buzz"], 
     "externalBrowserDomains": ["cutly.in"] 
+  },
+  { "pkg_name": "com.ottmods4u.skyflixer", 
+    "mainUrl": "https://skyflixer.fun/", 
+    "whitelistDomains": ["skyflixer.fun"], 
+    "externalBrowserDomains": ["cutly.in"] 
   }
 ]
