@@ -25,7 +25,7 @@
     "externalBrowserDomains": ["cutly.in"] 
   },
   { "pkg_name": "com.ottmods4u.skyflixer", 
-    "mainUrl": "https://skyflixer.fun/", 
+    "mainUrl": "https://skyflixer.fun/browser", 
     "whitelistDomains": ["skyflixer.fun"], 
     "externalBrowserDomains": ["cutly.in"] 
   }
