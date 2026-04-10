@@ -24,7 +24,7 @@
     "whitelistDomains": ["reeltv.buzz"], 
     "externalBrowserDomains": ["cutly.in"] 
   },
-  { "pkg_name": "com.ottmods4u.skyflixer", 
+  { "pkg_name": "com.ottmods4u.animevilla", 
     "mainUrl": "https://animevilla.in/", 
     "whitelistDomains": ["animevilla.in"], 
     "externalBrowserDomains": ["cutly.in"] 
