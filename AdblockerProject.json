@@ -28,5 +28,10 @@
     "mainUrl": "https://rareanimes.app/home/", 
     "whitelistDomains": ["rareanimes.app","codedew.com"], 
     "externalBrowserDomains": ["cutly.in","pixeldrain.net","mega.nz"] 
+  },
+  { "pkg_name": "com.ottmods4u.animixstream", 
+    "mainUrl": "https://animixstream.com/", 
+    "whitelistDomains": ["animixstream.com"], 
+    "externalBrowserDomains": ["cutly.in"] 
   }
 ]
