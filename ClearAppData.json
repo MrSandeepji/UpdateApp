@@ -58,14 +58,14 @@
   {
     "pkg": "story.tv.drama.reels",
     "token": "e9nvXh64udjdj98ri",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
    "message": "Hello users, Subscription issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते उपयोगकर्ताओं, सब्सक्रिप्शन समस्या को ठीक कर दिया गया है। कृपया ऐप डेटा साफ़ करें। ऐप डेटा साफ़ करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   },
   {
     "pkg": "com.storymax.reels.shorts",
-    "token": "e9nvXhTiR68l996",
-    "dailogShow": false,
+    "token": "e9nvXhTiR68l096",
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते यूज़र्स, लॉगआउट की समस्या ठीक कर दी गई है। कृपया ऐप का डेटा क्लियर कर लें। ऐप का डेटा क्लियर करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   }, 
