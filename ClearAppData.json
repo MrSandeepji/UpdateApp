@@ -71,9 +71,9 @@
   }, 
   {
     "pkg": "com.sk.wowtv",
-    "token": "e9nvXhTiRuf686",
-    "dailogShow": false,
+    "token": "e9nvXhTiRuf687",
+    "dailogShow": true,
     "title": "★ Attention User ★",
-    "message": "Hello users! The subscription issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\nनमस्कार उपयोगकर्ताओं! सदस्यता समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
+    "message": "Hello users! The session issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! सैशन समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   }
 ]
