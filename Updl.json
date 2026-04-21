@@ -35,7 +35,7 @@
   },
   {
   "pkg": "com.amazon.avod.thirdpartyclient",
-  "version": "4.0.800.405",
+  "version": "4.0.800.406",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nDownload New Version From Old Post",
   "quote_active": false,
@@ -114,14 +114,6 @@
   "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "app.aksports.live",
-  "version": "1.2",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
-  },
-  {
   "pkg": "com.alphaware.reelShort",
   "version": "1.39.5",
   "update_url": "https://telegram.me/OttMods4U",
@@ -144,14 +136,6 @@
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
   "quote": "officially new version v1.0.90 released. Go to our telegram channel and download it."  
-  },
-  {
-  "pkg": "com.movieshubinpire.android",
-  "version": "2.1.6b",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."  
   },
   {
   "pkg": "com.dashtoon.video.reels",
