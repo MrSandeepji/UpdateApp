@@ -57,22 +57,22 @@
   },
   {
     "pkg": "story.tv.drama.reels",
-    "token": "e9nvXh64udjdj98ri",
-    "dailogShow": false,
+    "token": "e9nvXh64udjdj98r0",
+    "dailogShow": true,
     "title": "★ Attention User ★",
-   "message": "Hello users, Subscription issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते उपयोगकर्ताओं, सब्सक्रिप्शन समस्या को ठीक कर दिया गया है। कृपया ऐप डेटा साफ़ करें। ऐप डेटा साफ़ करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
+   "message": "Hello users, logout issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते उपयोगकर्ताओं, लॉगआउट समस्या को ठीक कर दिया गया है। कृपया ऐप डेटा साफ़ करें। ऐप डेटा साफ़ करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   },
   {
     "pkg": "com.storymax.reels.shorts",
-    "token": "e9nvXhTiR68l90",
+    "token": "e9nvXhTiR68l91",
     "dailogShow": true,
     "title": "★ Attention User ★",
-    "message": "Hello users, the Subscription issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते यूज़र्स, Subscription की समस्या ठीक कर दी गई है। कृपया ऐप का डेटा क्लियर कर लें। ऐप का डेटा क्लियर करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
+    "message": "Hello users, the logout issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते यूज़र्स, लॉगआउट की समस्या ठीक कर दी गई है। कृपया ऐप का डेटा क्लियर कर लें। ऐप का डेटा क्लियर करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   }, 
   {
     "pkg": "com.sk.wowtv",
     "token": "e9nvXhTiRuf68R9",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention session ★",
     "message": "Hello users! session expired issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! सेशन समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   }
