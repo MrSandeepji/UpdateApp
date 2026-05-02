@@ -16,7 +16,7 @@
   {
     "pkg": "com.sk.kukufm",
     "token": "Xuhsu489i075n996",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते यूज़र्स, लॉगआउट की समस्या ठीक कर दी गई है। कृपया ऐप का डेटा क्लियर कर लें। ऐप का डेटा क्लियर करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   },
@@ -58,14 +58,14 @@
   {
     "pkg": "story.tv.drama.reels",
     "token": "e9nvXh64udjdj98r0",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
    "message": "Hello users, logout issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते उपयोगकर्ताओं, लॉगआउट समस्या को ठीक कर दिया गया है। कृपया ऐप डेटा साफ़ करें। ऐप डेटा साफ़ करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   },
   {
     "pkg": "com.storymax.reels.shorts",
     "token": "e9nvXhTiR68l91",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते यूज़र्स, लॉगआउट की समस्या ठीक कर दी गई है। कृपया ऐप का डेटा क्लियर कर लें। ऐप का डेटा क्लियर करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   }, 
@@ -75,5 +75,12 @@
     "dailogShow": false,
     "title": "★ Attention session ★",
     "message": "Hello users! session expired issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! सेशन समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
+  },
+  {
+    "pkg": "com.ottmods4u.stage",
+    "token": "e9nvXhTiRuueijsw9",
+    "dailogShow": true,
+    "title": "★ Attention session ★",
+    "message": "Hello users! Subscription expired issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! Subscription समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   }
 ]
