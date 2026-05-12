@@ -33,5 +33,11 @@
     "mainUrl": "https://animixstream.com/", 
     "whitelistDomains": ["animixstream.com"], 
     "externalBrowserDomains": ["cutly.in"] 
+  },
+  { "pkg_name": "com.ottmods4u.hindianimezone", 
+    "mainUrl": "https://hindianimezone.com/", 
+    "whitelistDomains": ["hindianimezone.com"], 
+    "externalBrowserDomains": ["cutly.in"] 
   }
+  
 ]
