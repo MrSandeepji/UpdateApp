@@ -37,7 +37,7 @@
   { "pkg_name": "com.ottmods4u.hindianimezone", 
     "mainUrl": "https://hindianimezone.com/", 
     "whitelistDomains": ["hindianimezone.com"], 
-    "externalBrowserDomains": ["cutly.in"] 
+    "externalBrowserDomains": ["cutly.in","drivecloud.io","filepress.wiki","gdshare.top","gdflix.net","p2pplay.online"] 
   }
   
 ]
