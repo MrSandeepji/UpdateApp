@@ -57,7 +57,7 @@
   },
   {
     "pkg": "story.tv.drama.reels",
-    "token": "e9nvXh64udjdj990",
+    "token": "e9nvXh64udjdj991",
     "dailogShow": true,
     "title": "★ Attention User ★",
    "message": "Hello users, logout issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते उपयोगकर्ताओं, लॉगआउट समस्या को ठीक कर दिया गया है। कृपया ऐप डेटा साफ़ करें। ऐप डेटा साफ़ करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
@@ -72,14 +72,14 @@
   {
     "pkg": "com.sk.wowtv",
     "token": "e9nvXhTiRif68R9",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention session ★",
     "message": "Hello users! session expired issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! सेशन समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   },
   {
     "pkg": "com.ottmods4u.stage",
     "token": "e9nvXhTiRuueij8sw0",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention session ★",
     "message": "Hello users! Subscription expired issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! Subscription समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   }
