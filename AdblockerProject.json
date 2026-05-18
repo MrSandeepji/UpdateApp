@@ -9,10 +9,10 @@
     "whitelistDomains": [ "animoye.com", "iqsmartgames.com"], 
     "externalBrowserDomains": [ "content.openx.xyz,","cutly.in" ] 
   },
-  { "pkg_name": "com.streamvalut.app", 
-    "mainUrl": "https://cinefy.lol/", 
-    "whitelistDomains": [ "cinefy.lol"], 
-    "externalBrowserDomains": ["cutly.in"]
+  { "pkg_name": "com.ottmods4u.moviessora", 
+    "mainUrl": "https://www.moviessora.online/", 
+    "whitelistDomains": [ "moviessora.online"], 
+    "externalBrowserDomains": ["cutly.in","blogspot.com"]
   },
   { "pkg_name": "com.animotvslash.app", 
     "mainUrl": "https://animotvslash.org/", 
