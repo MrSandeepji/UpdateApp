@@ -38,6 +38,11 @@
     "mainUrl": "https://hindianimezone.com/", 
     "whitelistDomains": ["hindianimezone.com","p2pplay.online"], 
     "externalBrowserDomains": ["cutly.in","drivecloud.io","filepress.wiki","gdshare.top","gdflix.net","203.188.166.168"] 
+  },
+  { "pkg_name": "com.animehub44.app", 
+    "mainUrl": "https://44animehub.com/", 
+    "whitelistDomains": ["44animehub.com","embed4me.vip"], 
+    "externalBrowserDomains": ["cutly.in","embed4me.vip"] 
   }
   
 ]
