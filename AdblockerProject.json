@@ -12,7 +12,7 @@
   { "pkg_name": "com.ottmods4u.moviessora", 
     "mainUrl": "https://www.moviessora.online/", 
     "whitelistDomains": [ "moviessora.online"], 
-    "externalBrowserDomains": ["cutly.in","blogspot.com"]
+    "externalBrowserDomains": ["cutly.in","blogspot.com","playerp2p.online"]
   },
   { "pkg_name": "com.animotvslash.app", 
     "mainUrl": "https://animotvslash.org/", 
