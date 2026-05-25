@@ -48,5 +48,11 @@
     "mainUrl": "https://net27.cc/", 
     "whitelistDomains": ["net27.cc","netprime.to"], 
     "externalBrowserDomains": ["cutly.in"] 
+  },
+  { "pkg_name": "com.netprime.ottmods4u", 
+    "mainUrl": "https://netprime.to/", 
+    "whitelistDomains": ["netprime.to"], 
+    "externalBrowserDomains": ["cutly.in"] 
   }
+  
 ]
