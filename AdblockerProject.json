@@ -43,6 +43,10 @@
     "mainUrl": "https://44animehub.com/", 
     "whitelistDomains": ["44animehub.com"], 
     "externalBrowserDomains": ["cutly.in","embed4me.vip","upn.one","rpmvid.site"] 
+  },
+  { "pkg_name": "com.netmirror.app", 
+    "mainUrl": "https://net27.cc/", 
+    "whitelistDomains": ["net27.cc"], 
+    "externalBrowserDomains": ["cutly.in"] 
   }
-  
 ]
