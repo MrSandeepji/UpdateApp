@@ -45,7 +45,7 @@
     "externalBrowserDomains": ["cutly.in","embed4me.vip","upn.one","rpmvid.site"] 
   },
   { "pkg_name": "com.netmirror.app", 
-    "mainUrl": "https://netprime.to/", 
+    "mainUrl": "https://net27.cc/", 
     "whitelistDomains": ["net27.cc","netprime.to"], 
     "externalBrowserDomains": ["cutly.in"] 
   }
