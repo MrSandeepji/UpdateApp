@@ -36,14 +36,6 @@
   "quote": "Unfortunately our account's 'Device limit has been Reached', So i can't provide any update right now. Please join our telegram channel for next update. I'll try to provide next update as soon as."
   },
   {
-  "pkg": "com.journey.indiab.castle",
-  "version": "2.0.7",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Message"  
-  },
-  {
   "pkg": "com.storymax.reels.shorts",
   "version": "1.0.4",
   "update_url": "https://telegram.me/OttMods4U",
@@ -124,7 +116,7 @@
   "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "disabled_com.dashtoon.video.reels",
+  "pkg": "com.dashtoon.video.reels",
   "version": "1.1.93",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
@@ -132,7 +124,7 @@
   "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "com.ottmods4u.stage",
+  "pkg": "disabled_com.ottmods4u.stage",
   "version": "5.69.1",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
@@ -148,7 +140,7 @@
   "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "disable_com.cti.cinetvin",
+  "pkg": "com.cti.cinetvin",
   "version": "4.0.0",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
