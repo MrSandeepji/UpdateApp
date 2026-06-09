@@ -89,5 +89,12 @@
     "dailogShow": false,
     "title": "★ Attention session ★",
     "message": "Hello users! App issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! App समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
+  },
+  {
+    "pkg": "tv.accedo.airtel.wynk",
+    "token": "e9nvXhTiRuueij8s",
+    "dailogShow": true,
+    "title": "★ Attention session ★",
+    "message": "Hello users! Subscription issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! Subscription समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   }
 ]
