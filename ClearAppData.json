@@ -22,8 +22,8 @@
   },
   {
     "pkg": "com.sk.kukutv",
-    "token": "Suhsu48higrT698",
-    "dailogShow": false,
+    "token": "Suhsu48higrT98",
+    "dailogShow": true,
     "title": "★ Attention User ★",
     "message": "Hello users, the session issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
@@ -93,7 +93,7 @@
   {
     "pkg": "tv.accedo.airtel.wynk",
     "token": "e9nvXhTiRuueij8s",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention session ★",
     "message": "Hello users! Subscription issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! Subscription समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   }
