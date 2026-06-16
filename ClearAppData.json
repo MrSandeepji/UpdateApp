@@ -9,21 +9,21 @@
   {
     "pkg": "com.sonyliv",
     "token": "fuhsu489id3jy75",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, the logout issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
   {
     "pkg": "com.sk.kukufm",
     "token": "Xuhsu489i7n96",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, All issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते यूज़र्स, Sabhi समस्या ठीक कर दी गई है। कृपया ऐप का डेटा क्लियर कर लें। ऐप का डेटा क्लियर करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   },
   {
     "pkg": "com.sk.kukutv",
     "token": "Suhsu48higrT98",
-    "dailogShow": true,
+    "dailogShow": false,
     "title": "★ Attention User ★",
     "message": "Hello users, All issue has been fixed. Please clear the app data to enable auto login. Click the 'Open ⚙️' button for clear app data."  
   },
@@ -71,7 +71,7 @@
   }, 
   {
     "pkg": "com.sk.wowtv",
-    "token": "e9nvXhTiRif6089",
+    "token": "e9nvXhTiRif608",
     "dailogShow": true,
     "title": "★ Attention session ★",
     "message": "Hello users! subscription issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! subscription समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
