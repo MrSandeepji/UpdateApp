@@ -15,19 +15,19 @@
   },
   {
   "pkg": "com.sk.wowtv",
-  "version": "5.6.0",
+  "version": "5.6.1",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Message"  
+  "quote_active": true,
+  "quote": "This mod has been permanently closed."  
   },
   {
   "pkg": "in.mohalla.video",
   "version": "2026.14.6",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Message"  
+  "quote_active": true,
+  "quote": "ACCOUNT BANNED!"  
   },
   {
   "pkg": "com.amazon.avod.thirdpartyclient",
@@ -71,19 +71,19 @@
   },
   {
   "pkg": "com.sk.kukufm",
-  "version": "5.6.0",
+  "version": "5.6.1",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
-  "quote": "Sorry! Guys, unfortunately our account has been suspended by kukufm. I'll upload new version soon"  
+  "quote": "This mod has been permanently closed."  
   },
   {
   "pkg": "com.sk.kukutv",
-  "version": "5.22.9",
+  "version": "5.23.0",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
   "quote_active": true,
-  "quote": "I'm facing some critical issues. we are fixing this issue"  
+  "quote": "This mod has been permanently closed."  
   },
   {
   "pkg": "com.cine18.app",
@@ -158,12 +158,12 @@
   "quote": "Please Use FilmTV. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "disabled_in.mohalla.quicktv",
-  "version": "2026.14.04",
+  "pkg": "in.mohalla.quicktv",
+  "version": "2026.14.06",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": ""  
+  "quote_active": true,
+  "quote": "ACCOUNT HAS BEEN BANNED!"  
   },
   {
   "pkg": "com.ht.ottplay",
