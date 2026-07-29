@@ -70,11 +70,11 @@
     "message": "Hello users, the Subscription issue has been fixed. Please clear the app data. Click the 'Open ⚙️' button for clear app data.\n\nनमस्ते यूज़र्स, सब्सक्रिप्शन की समस्या ठीक कर दी गई है। कृपया ऐप का डेटा क्लियर कर लें। ऐप का डेटा क्लियर करने के लिए 'Open ⚙️' बटन पर क्लिक करें।"  
   }, 
   {
-    "pkg": "com.sk.wowtv",
-    "token": "e9nvXhTiRif608",
-    "dailogShow": false,
+    "pkg": "com.jio.jioplay.tv",
+    "token": "e9nvXhTiRif6089",
+    "dailogShow": true,
     "title": "★ Attention session ★",
-    "message": "Hello users! subscription issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! subscription समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
+    "message": "Hello users! logout issue has been fixed. Please clear app data. Click the 'Open ⚙️' button to clear app data.\n\n हैलो उपयोगकर्ताओं! लॉगआउट समाप्त समस्या का समाधान कर दिया गया है. कृपया ऐप डेटा साफ़ करें. ऐप डेटा साफ़ करने के लिए 'ओपन ⚙️' बटन पर क्लिक करें।‌‌"  
   },
   {
     "pkg": "com.ottmods4u.stage",
