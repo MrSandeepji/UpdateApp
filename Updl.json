@@ -158,12 +158,20 @@
   "quote": "Please Use New Cinema App. I have recently uploaded. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "disabled_com.community.oneroom",
-  "version": "4.0.01.0813.03",
+  "pkg": "com.community.oneroom",
+  "version": "3.0.15.0513.03",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "",
   "quote_active": true,
-  "quote": "Download New Version (v4.0.01.0813.03) From Telegram Channel. Go to our telegram channel and download it."  
+  "quote": "This version officialy closed by app owner so Download another Version (v3.0.15.0513.03) From Telegram Channel. Go to our telegram channel and download it."  
+  },
+  {
+  "pkg": "com.community.mbox.in",
+  "version": "3.0.15.0513.03",
+  "update_url": "https://telegram.me/OttMods4U",
+  "features": "",
+  "quote_active": true,
+  "quote": "This version officialy closed by app owner so Download another Version (v3.0.15.0513.03) From Telegram Channel. Go to our telegram channel and download it."  
   },
   {
   "pkg": "in.mohalla.quicktv",
