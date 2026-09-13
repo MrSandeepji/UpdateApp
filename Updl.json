@@ -158,7 +158,7 @@
   "quote": "Please Use New Cinema App. I have recently uploaded. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "com.community.oneroom",
+  "pkg": "disabled_com.community.oneroom",
   "version": "4.0.02.0831.03",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "",
@@ -166,7 +166,7 @@
   "quote": "New Version Coming soon. Go to our telegram channel and download it."  
   },
   {
-  "pkg": "com.community.mbox.in",
+  "pkg": "disabled_com.community.mbox.in",
   "version": "4.0.02.0831.03",
   "update_url": "https://telegram.me/OttMods4U",
   "features": "",
