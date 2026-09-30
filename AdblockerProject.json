@@ -45,8 +45,8 @@
     "externalBrowserDomains": ["cutly.in","embed4me.vip","upn.one","rpmvid.site"] 
   },
   { "pkg_name": "com.netmirror.app", 
-    "mainUrl": "https://net27.cc/", 
-    "whitelistDomains": ["net27.cc","netprime.to"], 
+    "mainUrl": "https://net79.cc/", 
+    "whitelistDomains": ["net79.cc","netprime.to"], 
     "externalBrowserDomains": ["cutly.in"] 
   },
   { "pkg_name": "com.netprime.ottmods4u", 
