@@ -1,224 +1,226 @@
 [
   {
-  "pkg": "com.sk.yamin",
-  "version": "1.1",
-  "update_url": "https://google.com",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "pkg": "com.sk.yamin",
+    "version": "1.1",
+    "update_url": "https://google.com",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
   },
   {
-  "pkg": "com.animeworld.ottmods4u",
-  "version": "9.5",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security"
+    "pkg": "com.animeworld.ottmods4u",
+    "version": "9.5",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": ""
   },
   {
-  "pkg": "com.sk.wowtv",
-  "version": "5.6.1",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "This mod has been permanently closed."  
+    "pkg": "com.sk.wowtv",
+    "version": "5.6.1",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "This mod has been permanently closed."
   },
   {
-  "pkg": "in.mohalla.video",
-  "version": "2026.14.5",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "ACCOUNT BANNED!"  
+    "pkg": "in.mohalla.video",
+    "version": "2026.14.5",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "ACCOUNT BANNED!"
   },
   {
-  "pkg": "com.amazon.avod.thirdpartyclient",
-  "version": "4.0.800.407",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nDownload New Version From Old Post",
-  "quote_active": false,
-  "quote": "Unfortunately our account's 'Device limit has been Reached', So i can't provide any update right now. Please join our telegram channel for next update. I'll try to provide next update as soon as."
+    "pkg": "com.amazon.avod.thirdpartyclient",
+    "version": "4.0.800.407",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nDownload New Version From Old Post",
+    "quote_active": false,
+    "quote": "Unfortunately our account's 'Device limit has been Reached', So i can't provide any update right now. Please join our telegram channel for next update. I'll try to provide next update as soon as."
   },
   {
-  "pkg": "com.storymax.reels.shorts",
-  "version": "1.2.7",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "StoryTV subscription has been expired. I'll inform you when i have get new account so join our telegram channel and get latest update about this."  
+    "pkg": "com.storymax.reels.shorts",
+    "version": "1.2.7",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "StoryTV subscription has been expired. I'll inform you when i have get new account so join our telegram channel and get latest update about this."
   },
   {
-  "pkg": "story.tv.drama.reels",
-  "version": "1.2.7",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "Subscription Expired!"  
+    "pkg": "story.tv.drama.reels",
+    "version": "1.2.7",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "Subscription Expired!"
   },
   {
-  "pkg": "com.seekho.android",
-  "version": "1.13.12",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Important Msg"  
+    "pkg": "com.seekho.android",
+    "version": "1.13.12",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "Important Msg"
   },
   {
-  "pkg": "com.jio.jioplay.tv",
-  "version": "7.1.7",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": ""
+    "pkg": "com.jio.jioplay.tv",
+    "version": "7.1.7",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": ""
   },
   {
-  "pkg": "com.sk.kukufm",
-  "version": "5.6.1",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "This mod has been permanently closed."  
+    "pkg": "com.sk.kukufm",
+    "version": "5.6.1",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "This mod has been permanently closed."
   },
   {
-  "pkg": "com.specialeffect.app",
-  "version": "1.2.25",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "Your message here."  
+    "pkg": "com.specialeffect.app",
+    "version": "1.2.25",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "Your message here."
   },
   {
-  "pkg": "com.cine18.app",
-  "version": "3.3.4",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "officially new version v3.3.2 released. Go to our telegram channel and download it."   
+    "pkg": "com.cine18.app",
+    "version": "3.3.4",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "officially new version v3.3.2 released. Go to our telegram channel and download it."
   },
   {
-  "pkg": "com.discoveryplus.mobile.android",
-  "version": "6.0.0",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
+    "pkg": "com.discoveryplus.mobile.android",
+    "version": "6.0.0",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."
   },
   {
-  "pkg": "com.alphaware.reelShort",
-  "version": "1.40.7",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
+    "pkg": "com.alphaware.reelShort",
+    "version": "1.40.7",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."
   },
   {
-  "pkg": "in.atrangii.app",
-  "version": "2.0.29",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."  
+    "pkg": "in.atrangii.app",
+    "version": "2.0.29",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "officially new version v3.2.8 released. Go to our telegram channel and download it."
   },
   {
-  "pkg": "com.dashtoon.video.reels",
-  "version": "1.1.93",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."  
+    "pkg": "com.dashtoon.video.reels",
+    "version": "1.1.93",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."
   },
   {
-  "pkg": "disabled_com.ottmods4u.stage",
-  "version": "5.69.1",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."  
+    "pkg": "disabled_com.ottmods4u.stage",
+    "version": "5.69.1",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."
   },
   {
-  "pkg": "com.flixygo",
-  "version": "2.1.5",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."  
+    "pkg": "com.flixygo",
+    "version": "2.1.5",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "officially new version v2.1.6b released. Go to our telegram channel and download it."
   },
   {
-  "pkg": "dcom.dramarush.shortin",
-  "version": "4.0.1",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "Please Use New Cinema App. I have recently uploaded. Go to our telegram channel and download it."  
+    "pkg": "com.dramarush.shortin",
+    "version": "4.0.1",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "Please Use New Cinema App. I have recently uploaded. Go to our telegram channel and download it."
   },
   {
-  "pkg": "d_com.fvvcl.flickverse",
-  "version": "4.0.1",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "Please Use New Cinema App. I have recently uploaded. Go to our telegram channel and download it."  
+    "pkg": "com.fvvcl.flickverse",
+    "version": "4.0.1",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "Please Use New Cinema App. I have recently uploaded. Go to our telegram channel and download it."
   },
   {
-  "pkg": "disabled_com.community.oneroom",
-  "version": "4.0.03.0922.03",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "",
-  "quote_active": true,
-  "quote": "New Version Coming soon. Go to our telegram channel and download it."  
+    "pkg": "disabled_com.community.oneroom",
+    "version": "4.0.03.0922.03",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "",
+    "quote_active": true,
+    "quote": "New Version Coming soon. Go to our telegram channel and download it."
   },
   {
-  "pkg": "com.community.mbox.in",
-  "version": "4.0.03.0922.03,
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "✦ Buffering Problem Fixed\n✦ Video Not Playing Fixed\n✦ Download Quality Unlocked\n✦ High-Speed Ultra Streaming\n✦ Overall Performance Improved\n⛔ Go to our telegram channel and download it.",
-  "quote_active": true,
-  "quote": "New Version Coming soon. Join our telegram channel until and wait."  
+    "pkg": "com.community.mbox.in",
+    "version": "4.0.03.0922.03",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "✦ Buffering Problem Fixed\n✦ Video Not Playing Fixed\n✦ Download Quality Unlocked\n✦ High-Speed Ultra Streaming\n✦ Overall Performance Improved\n⛔ Go to our telegram channel and download it.",
+    "quote_active": true,
+    "quote": "New Version Coming soon. Join our telegram channel until and wait."
   },
   {
-  "pkg": "in.mohalla.quicktv",
-  "version": "2026.15.05",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": "ACCOUNT HAS BEEN BANNED!"  
+    "pkg": "in.mohalla.quicktv",
+    "version": "2026.15.05",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": "ACCOUNT HAS BEEN BANNED!"
   },
   {
-  "pkg": "com.radio.pocketfm",
-  "version": "8.19.4",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": ""  
+    "pkg": "com.radio.pocketfm",
+    "version": "8.19.4",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": ""
   },
   {
-  "pkg": "com.movieshubinpire.android",
-  "version": "2.1.6c",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": true,
-  "quote": "Sorry guys, we are facing server failure issue. Movieshub's team fixing this issue."  
+    "pkg": "com.movieshubinpire.android",
+    "version": "2.1.6c",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": true,
+    "quote": "Sorry guys, we are facing server failure issue. Movieshub's team fixing this issue."
   },
   {
-  "pkg": "com.Moovlix.app",
-  "version": "8.3.8",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": ""  
+    "pkg": "com.Moovlix.app",
+    "version": "8.3.8",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": ""
   },
   {
-  "pkg": "d_com.sonyliv",
-  "version": "6.32.5",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": ""  
+    "pkg": "com.sonyliv",
+    "version": "6.32.5",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": ""
   },
   {
-  "pkg": "disabled_com.community.mbox.tv",
-  "version": "1.1.5.0711.03",
-  "update_url": "https://telegram.me/OttMods4U",
-  "features": "Screen Off Issue Fixed\nScreen Off Issue Fixed\nBug fixes & improvements\nEnhanced security",
-  "quote_active": false,
-  "quote": ""  
+    "pkg": "disabled_com.community.mbox.tv",
+    "version": "1.1.5.0711.03",
+    "update_url": "https://telegram.me/OttMods4U",
+    "features": "Screen Off Issue Fixed\nBug fixes & improvements\nEnhanced security",
+    "quote_active": false,
+    "quote": ""
   }
 ]
