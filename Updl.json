@@ -32,7 +32,7 @@
     "quote": "ACCOUNT BANNED!"
   },
   {
-    "pkg": "com.amazon.avod.thirdpartyclient",
+    "pkg": "disabled_com.amazon.avod.thirdpartyclient",
     "version": "4.0.800.407",
     "update_url": "https://telegram.me/OttMods4U",
     "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security\nDownload New Version From Old Post",
