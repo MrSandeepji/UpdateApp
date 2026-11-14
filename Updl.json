@@ -200,8 +200,8 @@
     "quote": "Sorry guys, we are facing server failure issue. Movieshub's team fixing this issue."
   },
   {
-    "pkg": "com.Moovlix.app",
-    "version": "8.3.8",
+    "pkg": "com.reelwave.shorttv",
+    "version": "5.0.7",
     "update_url": "https://telegram.me/OttMods4U",
     "features": "Improved user interface\nAdded new features\nBug fixes & improvements\nEnhanced security",
     "quote_active": false,
